@@ -13,3 +13,17 @@ body {
 input{
     margin: 10px;
 }
+#disname{
+    border: 1px solid greenyellow;
+    padding: 10px;
+    background-color: maroon;
+    border-radius: 10px;
+    width: 50%;
+}
+#disname2{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: yellow;
+    border-radius: 10px;
+    width: 50%;
+}
